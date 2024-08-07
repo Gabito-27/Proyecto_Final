@@ -1,7 +1,4 @@
 # Proyecto_Final
-# jHONATAN
-### memoriaDinamica
-# Gabriel 
-### Estructuras
-# German
-### Archivos
+## jHONATAN                 Gabriel             German
+### memoriaDinamica        Estructuras         Archivos
+
